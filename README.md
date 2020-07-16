@@ -24,3 +24,24 @@ Libaray used
 8) imutils
 
 For the hardware programming, Using pyCMDmessenger I have establish the interaction between arduino and python.
+
+HARDWARE REQUIRMENTS
+Arduino Uno
+
+Arduino Mega
+
+CNC shield 
+
+Two DC motor
+
+L298N DC motor driver
+
+Three NEMA17 stepper motor
+
+Three stepper motor drivers(Model: DRV8825)
+
+12V adapter
+
+Vacuum pump
+
+Relay

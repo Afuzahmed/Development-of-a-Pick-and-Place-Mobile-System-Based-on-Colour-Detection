@@ -25,23 +25,24 @@ Libaray used
 
 For the hardware programming, Using pyCMDmessenger I have establish the interaction between arduino and python.
 
-HARDWARE REQUIRMENTS
-Arduino Uno
+HARDWARE REQUIRMENTS:
 
-Arduino Mega
+1) Arduino Uno
 
-CNC shield 
+2) Arduino Mega
 
-Two DC motor
+3) CNC shield 
 
-L298N DC motor driver
+3) Two DC motor
 
-Three NEMA17 stepper motor
+4) L298N DC motor driver
 
-Three stepper motor drivers(Model: DRV8825)
+5) Three NEMA17 stepper motor
 
-12V adapter
+6) Three stepper motor drivers(Model: DRV8825)
 
-Vacuum pump
+7) 12V adapter
 
-Relay
+8) Vacuum pump
+
+9) Relay

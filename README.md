@@ -10,7 +10,8 @@ Such a system can be very useful in performing tasks that require safety and pre
 and also hygiene maintenance. The robot will travel to the required location and perform
 the mentioned operation after detecting the colour of the object.
 
-In this project, I have used pysthon as the main programming language. Different libaraies are used to different opeartion 
+In this project, I have used pysthon as the main programming language. Different libaraies are used to different opeartion.
+
 Libaray used 
 
 1) Numpy 

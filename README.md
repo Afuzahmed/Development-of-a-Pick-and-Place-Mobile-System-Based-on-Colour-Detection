@@ -25,7 +25,7 @@ Libaray used
 
 For the hardware programming, Using pyCMDmessenger I have establish the interaction between arduino and python.
 
-Before running mail file, make sure your arduino boards are connected to the right ports. One can change the ports name in ard_py.py and Ard_pycmd.py file.
+Before running main file, make sure your arduino boards are connected to the right ports. One can change the ports name in ard_py.py and Ard_pycmd.py file.
 
 HARDWARE REQUIRMENTS:
 
